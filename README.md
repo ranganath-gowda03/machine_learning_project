@@ -1,4 +1,3 @@
-# machine_learning_project
 Start Machine Learning project.
 Software and account Requirement.
 Github Account
