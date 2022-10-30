@@ -1,4 +1,5 @@
-<<<<<<< HEAD
+## Start Machine Learning project.
+
 ### Software and account Requirement.
 
 1. [Github Account](https://github.com)
@@ -8,15 +9,6 @@
 5. [GIT Documentation](https://git-scm.com/docs/gittutorial)
 
 
-=======
-Start Machine Learning project.
-Software and account Requirement.
-Github Account
-Heroku Account
-VS Code IDE
-GIT cli
-GIT Documentation
->>>>>>> 213f336b405c2c1ce7d982ea092ebd909e65b857
 Creating conda environment
 ```
 conda create -p venv python==3.7 -y
@@ -70,15 +62,16 @@ git remote -v
 ```
 
 To setup CI/CD pipeline in heroku we need 3 information
-1. HEROKU_EMAIL = ranganathgowda0305@gmail.com
-2. HEROKU_API_KEY = 94327cf5-d7d9-48cd-a07f-0e3316f856bb
-3. HEROKU_APP_NAME = ml-regression-app05
+1. HEROKU_EMAIL = anishyadav7045075175@gmail.com
+2. HEROKU_API_KEY = <>
+3. HEROKU_APP_NAME = ml-regression-app
 
 BUILD DOCKER IMAGE
 ```
 docker build -t <image_name>:<tagname> .
 ```
 > Note: Image name for docker must be lowercase
+
 
 To list docker image
 ```
