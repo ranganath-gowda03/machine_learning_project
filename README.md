@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### Software and account Requirement.
 
 1. [Github Account](https://github.com)
@@ -7,6 +8,15 @@
 5. [GIT Documentation](https://git-scm.com/docs/gittutorial)
 
 
+=======
+Start Machine Learning project.
+Software and account Requirement.
+Github Account
+Heroku Account
+VS Code IDE
+GIT cli
+GIT Documentation
+>>>>>>> 213f336b405c2c1ce7d982ea092ebd909e65b857
 Creating conda environment
 ```
 conda create -p venv python==3.7 -y
@@ -90,3 +100,7 @@ Tos stop docker conatiner
 docker stop <container_id>
 ```
 
+<<<<<<< HEAD
+=======
+git remote -v
+>>>>>>> 213f336b405c2c1ce7d982ea092ebd909e65b857
