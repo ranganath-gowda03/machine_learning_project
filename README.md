@@ -93,7 +93,3 @@ Tos stop docker conatiner
 docker stop <container_id>
 ```
 
-<<<<<<< HEAD
-=======
-git remote -v
->>>>>>> 213f336b405c2c1ce7d982ea092ebd909e65b857
